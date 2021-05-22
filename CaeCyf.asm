@@ -1,7 +1,4 @@
-;Decription assignment 6
-;Yuzhe Lu
 ;This program will ask user to select encrypt or decrypt, ask  them to enter a string and a key, and will encrypt or decrypt the key using a Caesar Ciper
-;due 11/10/2017
 ;Compiled and tested on Windows 10 using VS
 
 
