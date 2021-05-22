@@ -1,2 +1,2 @@
-# AssemblyLang
-Code written for Assembly Languages
+# Assemble
+I wrote this code for Assembly. Comment for questions
