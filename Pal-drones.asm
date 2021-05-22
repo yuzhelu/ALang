@@ -1,7 +1,4 @@
-;Assignment 5
-;Title: Assignment 5
 ;Author: Yuzhe Lu
-;Date 10/27/17
 ;Tested and compiled on my laptop running Windows 10, Visual Studio 2015
 
 Include Irvine32.inc
