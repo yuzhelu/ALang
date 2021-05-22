@@ -1,9 +1,4 @@
-;Program template
-Comment !
-Title: Assignment 3. fibonacchi.asm
-Author: Yuzhe Lu
-Date: 9/12/17
-!
+
 Include Irvine32.inc
 
 ClrEAX TEXTEQU <mov EAX, 0>
